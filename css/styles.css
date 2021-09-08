@@ -96,12 +96,11 @@ i {
 
 
 
-.navbar-nav li:hover a{
+.navbar-nav li a{
     display: block;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 15px;
-    height: 19px;
-    transition: 2s;
+    /* height: 19px; */
 }
 
 .navbar-nav li:hover > ul.dropdown-menu {
