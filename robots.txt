@@ -1,0 +1,31 @@
+User-agent:*
+Disallow: /js
+Disallow: /css
+Disallow: /webfonts
+Disallow: /cssfontawesone
+Disallow: /Videos/
+Disallow: /Audio/
+
+
+User-agent:Googlebot
+Disallow: /js
+Disallow: /css
+Disallow: /webfonts
+Disallow: /cssfontawesone
+Disallow: /Videos/
+Disallow: /Audio/
+
+User-agent:*
+allow:/cache/
+allow:/configs/
+allow:/templates/
+allow:/util/
+
+Sitemap: https://wjtecnology.000webhostapp.com/sitemap.xml
+
+
+
+
+
+
+

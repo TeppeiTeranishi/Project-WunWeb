@@ -1,0 +1,23 @@
+User-agent:*
+Disallow: /js
+Disallow: /css
+Disallow: /webfonts
+Disallow: /cssfontawesone
+Disallow: /Videos/
+Disallow: /Audio/
+
+
+User-agent:Googlebot
+Disallow: /js
+Disallow: /css
+Disallow: /webfonts
+Disallow: /cssfontawesone
+Disallow: /Videos/
+Disallow: /Audio/
+
+
+
+
+
+
+
